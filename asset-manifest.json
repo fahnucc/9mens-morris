@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/9mens-morris/static/css/main.278262cb.css",
+    "main.js": "/9mens-morris/static/js/main.d0f72c30.js",
+    "static/media/Board.png": "/9mens-morris/static/media/Board.37aa8e09a0f124da007c.png",
+    "index.html": "/9mens-morris/index.html",
+    "main.278262cb.css.map": "/9mens-morris/static/css/main.278262cb.css.map",
+    "main.d0f72c30.js.map": "/9mens-morris/static/js/main.d0f72c30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.278262cb.css",
+    "static/js/main.d0f72c30.js"
+  ]
+}
