@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/9mens-morris/static/css/main.2e25f90a.css",
-    "main.js": "/9mens-morris/static/js/main.4aae3f16.js",
+    "main.css": "/9mens-morris/static/css/main.9f5b60c2.css",
+    "main.js": "/9mens-morris/static/js/main.b312a2d7.js",
     "static/media/Board.png": "/9mens-morris/static/media/Board.37aa8e09a0f124da007c.png",
     "index.html": "/9mens-morris/index.html",
-    "main.2e25f90a.css.map": "/9mens-morris/static/css/main.2e25f90a.css.map",
-    "main.4aae3f16.js.map": "/9mens-morris/static/js/main.4aae3f16.js.map"
+    "main.9f5b60c2.css.map": "/9mens-morris/static/css/main.9f5b60c2.css.map",
+    "main.b312a2d7.js.map": "/9mens-morris/static/js/main.b312a2d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e25f90a.css",
-    "static/js/main.4aae3f16.js"
+    "static/css/main.9f5b60c2.css",
+    "static/js/main.b312a2d7.js"
   ]
 }
