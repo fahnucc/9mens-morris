@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/9mens-morris/static/css/main.ef92155e.css",
-    "main.js": "/9mens-morris/static/js/main.45e27b92.js",
+    "main.js": "/9mens-morris/static/js/main.f12e06db.js",
     "static/media/Board.png": "/9mens-morris/static/media/Board.37aa8e09a0f124da007c.png",
     "index.html": "/9mens-morris/index.html",
     "main.ef92155e.css.map": "/9mens-morris/static/css/main.ef92155e.css.map",
-    "main.45e27b92.js.map": "/9mens-morris/static/js/main.45e27b92.js.map"
+    "main.f12e06db.js.map": "/9mens-morris/static/js/main.f12e06db.js.map"
   },
   "entrypoints": [
     "static/css/main.ef92155e.css",
-    "static/js/main.45e27b92.js"
+    "static/js/main.f12e06db.js"
   ]
 }
